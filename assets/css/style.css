@@ -14,7 +14,10 @@ body {
     background-color: white;
     padding: 31px;
     border-bottom: solid;
-    margin-top: 0px;
+    margin-top: -10px;
+    margin-left:-10px;
+    margin-right: 30px;
+    width:100%;
 }
 
 #sname{ 
@@ -26,7 +29,7 @@ body {
     padding-left: 10px;
     padding-right: 10px;
     position: absolute;
-    top: 0px;
+    top: -9px;
     left: 85px;
 
 }
@@ -74,7 +77,7 @@ body {
     visibility: hidden;
 }
 
-#copyright {
+.footer {
     position: relative;
     bottom:-50px;
     text-align: center;
@@ -112,3 +115,22 @@ input[type=submit] {
     margin: 4px 2px;
     cursor: pointer;
   }
+
+.portcont {
+      background-color: white;
+      position: relative;
+      padding: 20px;
+  }
+
+.picctxt {
+    background-color: teal;
+    position: absolute;
+    color: white;
+    left: 20px;
+    bottom: 30px;
+    padding: 10px;
+    float: left;
+    text-align: center;
+    width: 26%;
+
+}
