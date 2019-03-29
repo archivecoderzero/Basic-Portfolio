@@ -9,9 +9,11 @@ body {
   z-index: 100;
   width: 100%;
   margin: 0 0 30px 0;
-  overflow: auto;
   background-image: url("https://66.media.tumblr.com/0f611cea0d9752921531ede59adaa978/tumblr_o2eziiORfr1sb5osho1_500.gif");
   border-bottom: 3px solid red;
+  left: 0;
+  top: 0;
+
 }
 
 
@@ -86,9 +88,9 @@ a:active {
 #pageis {
     text-align: left;
     padding: 30px;
-    background-color: rgb(26, 75, 238);
+    background-color: rgb(30, 243, 41);
     font-weight: 600;
-    border-bottom: solid 3px;
+    border-bottom: solid 0px;
     color: white;
 }
 
@@ -186,7 +188,7 @@ input[type=submit] {
   float: left;
   width:100%;
   position: relative;
-  font-size: 16px;
+  font-size: 20px;
   z-index: 2;
   bottom: 70px;
   padding-top: 10px;
@@ -202,8 +204,6 @@ input[type=submit] {
 .subholder {
   position: relative;
   left: 60px;
-  float: left;
-  width: 100%;
   margin-left: auto;
   margin-right: auto;
 }
