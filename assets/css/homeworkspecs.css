@@ -1,19 +1,26 @@
 body {
-  background-image: url("../../assets/images/moulin.PNG")
+  background-image: url("../../assets/images/positive.PNG");
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  }
+  h1{
+    font-family: 'Georgia', Times, "Times New Roman", serif;
+
   }
   h2{
   font-size: 24px;
   }
   p {
   font-size:14px;
+  font-family :Arial, "Helvetica Neue", Helvetica, sans-serif;
   }
   #tophead {
   position: fixed;
   z-index: 100;
   width: 100%;
   margin: 0 0 30px 0;
-  background-image: url("https://66.media.tumblr.com/0f611cea0d9752921531ede59adaa978/tumblr_o2eziiORfr1sb5osho1_500.gif");
-  border-bottom: 3px solid red;
+  background: white;
+  border-bottom: 3px solid #dddddd;
   left: 0;
   top: 0;
   }
@@ -30,7 +37,7 @@ body {
   color: white;
   text-align: center;
   text-decoration: none;
-  background: black;
+  background: teal;
   }
   nav {
   position: relative;
@@ -45,9 +52,9 @@ body {
   padding-left: 15px;
   margin-left: 15px;
   line-height: 25px;
-  color: white;
+  color: black;
   text-decoration: none;
-  border-left: 3px solid white;
+  border-left: 3px solid rgb(182, 182, 233);
   }
   nav a:first-child {
   border-left: 0 none;
@@ -78,15 +85,15 @@ body {
   #pageis {
   text-align: left;
   padding: 30px;
-  background-image: url("http://clipart-library.com/img/885073.gif");
-  background-color: rgb(30, 243, 41);
+  background-color: rgb(233, 230, 230);
   font-weight: 600;
   border-bottom: solid 0px;
-  color: white;
+  color: teal;
+  border-bottom: solid 2px grey;
   }
   .holder {
   position: relative;
-  background-color: rgba(174, 154, 221, 0.329);
+  background-color: white(174, 154, 221, 0.329);
   width: 100%;
   min-height: 350px;
   overflow:hidden;
@@ -97,10 +104,11 @@ body {
   padding: 30px;
   }
   #fun {
-  color:rgba(174, 154, 221, 0.329);
-  font-size: 12px;
+  color:white;
+  font-size: 24px;
   position: relative;
   bottom: -20px;
+  text-align: center;
   }
   .relativetofooter{
   position: relative;
@@ -112,9 +120,9 @@ body {
   position: relative;
   bottom:-300px;
   width:100%;
-  left:-10px;
-  background-image: url("https://66.media.tumblr.com/0f611cea0d9752921531ede59adaa978/tumblr_o2eziiORfr1sb5osho1_500.gif");
-  border-top: solid 3px red;
+  background: #666666;
+  /* background-image: url("https://66.media.tumblr.com/0f611cea0d9752921531ede59adaa978/tumblr_o2eziiORfr1sb5osho1_500.gif"); */
+  border-top: solid 5px teal;
   }
   .footer {
   text-align: center;
@@ -142,7 +150,7 @@ body {
   box-sizing: border-box;
   }
   input[type=submit] {
-  background-color: rgb(79, 8, 245);
+  background-color: teal;
   border: none;
   color: white;
   padding: 16px 32px;
@@ -158,7 +166,7 @@ body {
   }
   #portdesc {
   clear: both;
-  background: rgb(53, 16, 219);
+  background: teal;
   text-align: center;
   color: white;
   float: left;
@@ -185,6 +193,7 @@ body {
   .hovereffect:hover {
   transition: .5s ease;
   opacity: 0.7;
+  filter: contrast(300%);
   }
 
   .submithover:hover {
