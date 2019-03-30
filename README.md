@@ -2,8 +2,8 @@
 This is the first homework for UW coding bootcamp
 
 This is my entry for UW Coding Bootcamp Homework 1 
-> the final version includes the CSS specifications for the Homework .
-  >Version: Final 03/29/19
+^ the final version includes the CSS specifications for the Homework .
+^Version: Final 03/29/19
   -Changelog :
     -Added multiple css hover animation in the portfolio page and contact me page .
     -Removed "funny" text on index.html 
