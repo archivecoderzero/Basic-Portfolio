@@ -11,7 +11,7 @@
   - Removed reset.css
   - Added relevant projects in portfolio.html
     
-**for the future UW Coding Bootcamp Students, Feel free to copy the code , check out some videos here on how tackle the homework (---)**
+**for the future UW Coding Bootcamp Students, Feel free to copy the code , check out some videos here on how i tackled the homework (---)**
 
 ## PREVIOUS VERSION
 ### Version: 2.0 03/27/19
