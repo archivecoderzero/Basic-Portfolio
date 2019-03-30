@@ -1,5 +1,5 @@
 # Basic-Portfolio
-##This is the first homework for UW coding bootcamp
+## This is the first homework for UW coding bootcamp
 
 ### This is my entry for UW Coding Bootcamp Homework 1 
 ### the final version includes the CSS specifications for the Homework .
@@ -11,7 +11,7 @@
   - Removed reset.css
   - Added relevant projects in portfolio.html
     
-**or the future UW Coding Bootcamp Students, Feel free to copy the code , check out some videos here on how tackle the homework (---)**
+**for the future UW Coding Bootcamp Students, Feel free to copy the code , check out some videos here on how tackle the homework (---)**
 
 ## PREVIOUS VERSION
 ### Version: 2.0 03/27/19
