@@ -1,5 +1,5 @@
 body {
-background-image: url("https://i.imgur.com/SeIBZwd.png"); 
+background-image: url(../../assets/images/bg.png); 
   
 
   font-family: Georgia, 'Times New Roman', Times, serif;
@@ -35,12 +35,14 @@ background-image: url("https://i.imgur.com/SeIBZwd.png");
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 30px;
   font-weight: 700;
-  line-height: 90px;
+  line-height: 100px;
   color: white;
   text-align: center;
   text-decoration: none;
   background: teal;
   }
+
+  
   nav {
   position: relative;
   line-height:50px;
@@ -203,3 +205,5 @@ background-image: url("https://i.imgur.com/SeIBZwd.png");
     background: darkcyan;
     padding:7px;
   }
+
+  
