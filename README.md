@@ -1,6 +1,9 @@
 # Basic-Portfolio
 ## This is the first homework for UW coding bootcamp
 
+
+Deployed at : https://archivecoderzero.github.io/Basic-Portfolio/
+
 ### This is my entry for UW Coding Bootcamp Homework 1 
 ### the final version includes the CSS specifications for the Homework .
 ## Version: Final 03/29/19

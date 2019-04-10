@@ -64,7 +64,7 @@ background-image: url(../../assets/images/bg.png);
   border-left: 0 none;
   }
   a {
-  transition: color .5s;
+  transition: color red .5s;
   }
   a:hover {
   color: gold;
